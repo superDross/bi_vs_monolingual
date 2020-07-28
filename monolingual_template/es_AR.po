@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-07-28 09:30+0000\n"
-"PO-Revision-Date: 2020-07-28 09:31+0000\n"
+"PO-Revision-Date: 2020-07-28 10:09+0000\n"
 "Last-Translator: Weblate Admin <weblate.admin@example.com>\n"
 "Language-Team: Spanish (Argentina) <http://weblate.example.com/projects/"
 "bilingual-vs-monolingual/monolingual-template/es_AR/>\n"
@@ -16,7 +16,7 @@ msgstr ""
 
 #: weblate/media/js/bootstrap-datepicker.js:1421
 msgid "day-monday"
-msgstr "something"
+msgstr "dfdfdfdfdfd"
 
 msgid "a-variable"
 msgstr "this"
