@@ -3,7 +3,7 @@ msgid "day-monday"
 msgstr "Monday"
 
 msgid "a-variable"
-msgstr "Var"
+msgstr "Variable"
 
 msgid "red-colour"
 msgstr "Red"
