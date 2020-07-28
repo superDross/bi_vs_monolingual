@@ -7,3 +7,6 @@ msgstr "Variable"
 
 msgid "red-colour"
 msgstr "Red"
+
+msgid "greeting"
+msgstr "Hello"
