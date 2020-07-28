@@ -1,0 +1,9 @@
+#: weblate/media/js/bootstrap-datepicker.js:1421
+msgid "Monday"
+msgstr ""
+
+msgid "Variable"
+msgstr ""
+
+msgid "Red"
+msgstr ""
