@@ -19,7 +19,7 @@ msgid "day-monday"
 msgstr "something"
 
 msgid "a-variable"
-msgstr ""
+msgstr "this"
 
 msgid "red-colour"
-msgstr ""
+msgstr "that"
