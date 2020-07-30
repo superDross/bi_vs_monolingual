@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-07-29 16:50+0000\n"
+"PO-Revision-Date: 2020-07-30 15:11+0000\n"
 "Last-Translator: Weblate Admin <weblate.admin@example.com>\n"
 "Language-Team: Spanish <http://weblate.example.com/projects/"
 "bilingual-vs-monolingual/monolingual-no-template/es/>\n"
@@ -23,3 +23,9 @@ msgstr "yadnoM"
 
 msgid "greeting"
 msgstr "fff"
+
+msgid "not"
+msgstr "ggg"
+
+msgid "day-tuesday"
+msgstr "ghghgg"
