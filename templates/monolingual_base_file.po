@@ -40,3 +40,6 @@ msgstr "not-me"
 
 msgid "jsdk"
 msgstr "not-me"
+
+msgid "jisdk"
+msgstr "not-me"
