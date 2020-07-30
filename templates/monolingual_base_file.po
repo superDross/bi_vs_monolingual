@@ -34,3 +34,6 @@ msgstr "not-me"
 
 msgid "this-that"
 msgstr "not-me"
+
+msgid "here-that"
+msgstr "not-me"
