@@ -37,3 +37,6 @@ msgstr "not-me"
 
 msgid "here-that"
 msgstr "not-me"
+
+msgid "jsdk"
+msgstr "not-me"
