@@ -28,3 +28,6 @@ msgstr "Hello"
 
 msgid "day-tuesday"
 msgstr "ff"
+
+msgid "not"
+msgstr "not-me"
