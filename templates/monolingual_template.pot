@@ -2,8 +2,44 @@
 msgid "day-monday"
 msgstr ""
 
+msgid "day-wednseday"
+msgstr ""
+
+msgid "day-thursday"
+msgstr ""
+
+msgid "day-friday"
+msgstr ""
+
+msgid "day-saturday"
+msgstr ""
+
+msgid "day-sunday"
+msgstr ""
+
 msgid "a-variable"
 msgstr ""
 
 msgid "red-colour"
+msgstr ""
+
+msgid "greeting"
+msgstr ""
+
+msgid "day-tuesday"
+msgstr ""
+
+msgid "not"
+msgstr ""
+
+msgid "this-that"
+msgstr ""
+
+msgid "here-that"
+msgstr ""
+
+msgid "jsdk"
+msgstr ""
+
+msgid "jisdk"
 msgstr ""
