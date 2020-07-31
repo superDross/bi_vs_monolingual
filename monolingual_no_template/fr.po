@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-07-31 09:06+0000\n"
+"PO-Revision-Date: 2020-07-31 09:26+0000\n"
 "Last-Translator: translator <translator@realmail.com>\n"
 "Language-Team: French <http://weblate.example.com/projects/"
 "bilingual-vs-monolingual/monolingual-no-template/fr/>\n"
@@ -18,5 +18,6 @@ msgid "day-tuesday"
 msgstr "this"
 
 #: weblate/media/js/bootstrap-datepicker.js:1421
+#, fuzzy
 msgid "day-monday"
 msgstr "Not a real translation"
