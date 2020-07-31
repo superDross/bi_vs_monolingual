@@ -18,6 +18,21 @@ msgstr ""
 msgid "day-monday"
 msgstr "Tuesday"
 
+msgid "day-wednseday"
+msgstr "Wednseday"
+
+msgid "day-thursday"
+msgstr "Thursday"
+
+msgid "day-friday"
+msgstr "Friday"
+
+msgid "day-saturday"
+msgstr "Saturday"
+
+msgid "day-sunday"
+msgstr "Sunday"
+
 msgid "a-variable"
 msgstr "Variable"
 
