@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-07-31 12:34+0000\n"
+"PO-Revision-Date: 2020-07-31 12:47+0000\n"
 "Last-Translator: translator <translator@realmail.com>\n"
 "Language-Team: Portuguese <http://weblate.example.com/projects/"
 "bilingual-vs-monolingual/monolingual-no-template/pt/>\n"
@@ -44,3 +44,9 @@ msgstr "sa"
 
 msgid "day-friday"
 msgstr "fr"
+
+msgid "here-that"
+msgstr "ff"
+
+msgid "day-sunday"
+msgstr "sun"
