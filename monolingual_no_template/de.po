@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-07-31 11:47+0000\n"
+"PO-Revision-Date: 2020-07-31 12:01+0000\n"
 "Last-Translator: translator <translator@realmail.com>\n"
 "Language-Team: German <http://weblate.example.com/projects/"
 "bilingual-vs-monolingual/monolingual-no-template/de/>\n"
@@ -17,3 +17,6 @@ msgstr "something"
 
 msgid "a-variable"
 msgstr "new"
+
+msgid "red-colour"
+msgstr "this"
