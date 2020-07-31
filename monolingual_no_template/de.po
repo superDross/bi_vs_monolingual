@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-07-31 12:08+0000\n"
-"Last-Translator: translator <translator@realmail.com>\n"
+"PO-Revision-Date: 2020-07-31 14:34+0000\n"
+"Last-Translator: reviewer <reviewer@realmail.com>\n"
 "Language-Team: German <http://weblate.example.com/projects/"
 "bilingual-vs-monolingual/monolingual-no-template/de/>\n"
 "Language: de\n"
@@ -13,7 +13,7 @@ msgstr ""
 
 #: weblate/media/js/bootstrap-datepicker.js:1421
 msgid "day-monday"
-msgstr "something"
+msgstr "yadnoM"
 
 msgid "a-variable"
 msgstr "new"
@@ -32,3 +32,27 @@ msgstr "something bab"
 
 msgid "not"
 msgstr "test-no-lazygit"
+
+msgid "jisdk"
+msgstr "no"
+
+msgid "jsdk"
+msgstr "no"
+
+msgid "here-that"
+msgstr "no"
+
+msgid "day-sunday"
+msgstr "yadnuS"
+
+msgid "day-friday"
+msgstr "yadirF"
+
+msgid "day-saturday"
+msgstr "yadrutaS"
+
+msgid "day-thursday"
+msgstr "yadsruhT"
+
+msgid "day-wednseday"
+msgstr "yadesndeW"
