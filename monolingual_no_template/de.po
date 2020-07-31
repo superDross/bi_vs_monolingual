@@ -23,3 +23,6 @@ msgstr "this"
 
 msgid "greeting"
 msgstr "new"
+
+msgid "day-tuesday"
+msgstr "now"
