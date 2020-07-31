@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-07-31 09:27+0000\n"
+"PO-Revision-Date: 2020-07-31 09:39+0000\n"
 "Last-Translator: reviewer <reviewer@realmail.com>\n"
 "Language-Team: French <http://weblate.example.com/projects/"
 "bilingual-vs-monolingual/monolingual-no-template/fr/>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "X-Generator: Weblate 4.1.1\n"
 
 msgid "a-variable"
-msgstr "this"
+msgstr ""
 
 msgid "day-tuesday"
 msgstr "this"
