@@ -17,13 +17,13 @@ msgstr ""
 
 #: weblate/media/js/bootstrap-datepicker.js:1421
 msgid "day-monday"
-msgstr "m"
+msgstr "J"
 
 msgid "day-wednseday"
-msgstr "w"
+msgstr "N"
 
 msgid "day-thursday"
-msgstr "th"
+msgstr "HTH"
 
 msgid "day-friday"
 msgstr ""
