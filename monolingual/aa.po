@@ -27,7 +27,7 @@ msgid "day-friday"
 msgstr "fr"
 
 msgid "day-saturday"
-msgstr ""
+msgstr "yy"
 
 msgid "day-sunday"
 msgstr ""
