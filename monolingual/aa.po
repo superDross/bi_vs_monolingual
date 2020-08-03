@@ -21,7 +21,7 @@ msgid "day-wednseday"
 msgstr "jjj"
 
 msgid "day-thursday"
-msgstr ""
+msgstr "thu"
 
 msgid "day-friday"
 msgstr ""
