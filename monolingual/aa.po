@@ -27,13 +27,13 @@ msgid "day-friday"
 msgstr "fr"
 
 msgid "day-saturday"
-msgstr "hh"
+msgstr "ss"
 
 msgid "day-sunday"
-msgstr ""
+msgstr "ggg"
 
 msgid "a-variable"
-msgstr ""
+msgstr "aa"
 
 msgid "red-colour"
 msgstr ""
@@ -57,4 +57,4 @@ msgid "jsdk"
 msgstr ""
 
 msgid "jisdk"
-msgstr ""
+msgstr "jj"
