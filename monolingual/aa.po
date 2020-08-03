@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-07-30 13:27+0000\n"
 "PO-Revision-Date: 2020-08-03 14:34+0000\n"
-"Last-Translator: yougov employee <yougov@yougov.net>\n"
+"Last-Translator: Weblate Admin <weblate.admin@example.com>\n"
 "Language-Team: Afar <http://weblate.example.com/projects/"
 "bilingual-vs-monolingual/monolingual/aa/>\n"
 "Language: aa\n"
@@ -16,10 +16,10 @@ msgstr ""
 
 #: weblate/media/js/bootstrap-datepicker.js:1421
 msgid "day-monday"
-msgstr "mon"
+msgstr ""
 
 msgid "day-wednseday"
-msgstr "jjj"
+msgstr ""
 
 msgid "day-thursday"
 msgstr ""
