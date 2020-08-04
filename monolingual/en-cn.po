@@ -6,7 +6,7 @@ msgstr ""
 "PO-Revision-Date: 2020-07-31 13:56+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
-"Language: en-cn\n"
+"Language: aa\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -15,46 +15,46 @@ msgstr ""
 
 #: weblate/media/js/bootstrap-datepicker.js:1421
 msgid "day-monday"
-msgstr ""
+msgstr "pop"
 
 msgid "day-wednseday"
-msgstr ""
+msgstr "jjj"
 
 msgid "day-thursday"
-msgstr ""
+msgstr "bury"
 
 msgid "day-friday"
-msgstr ""
+msgstr "fr"
 
 msgid "day-saturday"
-msgstr ""
+msgstr "ss"
 
 msgid "day-sunday"
-msgstr ""
+msgstr "ggg"
 
 msgid "a-variable"
-msgstr ""
+msgstr "aa"
 
 msgid "red-colour"
-msgstr ""
+msgstr "jjj"
 
 msgid "greeting"
-msgstr ""
+msgstr "ddd"
 
 msgid "day-tuesday"
-msgstr ""
+msgstr "io"
 
 msgid "not"
-msgstr ""
+msgstr "gggjjj"
 
 msgid "this-that"
-msgstr ""
+msgstr "ddd"
 
 msgid "here-that"
-msgstr ""
+msgstr "jkdljd"
 
 msgid "jsdk"
-msgstr ""
+msgstr "fjfjj"
 
 msgid "jisdk"
-msgstr ""
+msgstr "fff"
