@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-07-28 09:59+0000\n"
-"PO-Revision-Date: 2020-07-28 10:00+0000\n"
+"PO-Revision-Date: 2020-08-04 08:20+0000\n"
 "Last-Translator: Weblate Admin <weblate.admin@example.com>\n"
 "Language-Team: German <http://weblate.example.com/projects/"
 "bilingual-vs-monolingual/bilingual/de/>\n"
@@ -16,10 +16,10 @@ msgstr ""
 
 #: weblate/media/js/bootstrap-datepicker.js:1421
 msgid "Monday"
-msgstr "mmm"
+msgstr "jjiii"
 
 msgid "Variable"
-msgstr ""
+msgstr "ddiii"
 
 msgid "Red"
-msgstr ""
+msgstr "giiig"
