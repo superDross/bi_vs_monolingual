@@ -71,3 +71,6 @@ msgstr "st"
 
 msgid "sddd"
 msgstr "st"
+
+msgid "12"
+msgstr "34"
