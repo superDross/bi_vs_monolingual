@@ -68,3 +68,6 @@ msgstr "wlc-test6"
 
 msgid "st"
 msgstr "st"
+
+msgid "sddd"
+msgstr "st"
