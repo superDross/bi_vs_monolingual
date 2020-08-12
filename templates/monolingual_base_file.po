@@ -62,3 +62,6 @@ msgstr "not-me"
 
 msgid "wlc-test"
 msgstr "wlc-test"
+
+msgid "wlc-test6"
+msgstr "wlc-test6"
