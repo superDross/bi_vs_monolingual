@@ -77,3 +77,6 @@ msgstr "34"
 
 msgid "help"
 msgstr "help"
+
+msgid "en-cn"
+msgstr "en-cn"
