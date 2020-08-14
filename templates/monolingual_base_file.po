@@ -74,3 +74,6 @@ msgstr "st"
 
 msgid "12"
 msgstr "34"
+
+msgid "help"
+msgstr "help"
